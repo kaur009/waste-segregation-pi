@@ -92,7 +92,8 @@ The model was trained using a custom dataset of household waste.
 
 ## 👨‍💻 Contributors
 
+- **Prabhkirat Kaur** 
+- **Sangeet Sangwan** 
 - **Shubham Gupta** 
 - **Vikas Prajapati** 
-- **Sangeet Sangwan** 
-- **Prabhkirat Kaur** 
+
